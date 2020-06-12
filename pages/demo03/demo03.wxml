@@ -1,0 +1,6 @@
+<!--pages/demo03/demo03.wxml-->
+<text>1</text>
+<text>2</text>
+<view>3</view>
+<view>4</view>
+<view>{{msg}}</view>

@@ -1,0 +1,3 @@
+<!--pages/demo04/demo04.wxml-->
+<text selectable='true' decode="true">123456 $lt</text>
+<view>{{hello + name}}</view>
